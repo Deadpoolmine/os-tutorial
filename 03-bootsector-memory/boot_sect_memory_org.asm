@@ -1,4 +1,4 @@
-[org 0x7c00]
+[org 0x7c00]    ; start from
 mov ah, 0x0e
 
 ; attempt 1

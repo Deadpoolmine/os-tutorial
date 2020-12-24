@@ -19,7 +19,7 @@ to be able to determine their end.
 
 ```nasm
 mystring:
-    db 'Hello, World', 0
+    db 'Hello, World', 0 ; data byte
 ```
 
 Notice that text surrounded with quotes is converted to ASCII by the assembler,

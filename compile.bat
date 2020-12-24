@@ -1,0 +1,1 @@
+nasm -f bin %1 -o %2
